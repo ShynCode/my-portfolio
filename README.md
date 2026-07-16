@@ -1,31 +1,65 @@
-# Shayan Khan — Portfolio
+# 🚀 Shayan Khan — Portfolio
 
-Minimal professional portfolio for **Shayan Khan** — LLM Developer · AI Engineer · Full Stack Developer.
+A modern, responsive portfolio showcasing my work as a **Full-Stack Developer** with a growing focus on **AI and Large Language Models (LLMs)**.
 
-Designed for recruiter review (Apple / OpenAI / Stripe / Linear / Vercel aesthetic). Light-first with system dark mode.
+## 🌐 About
 
-## Preview
+This portfolio highlights my projects, technical skills, and experience in building scalable web applications and AI-powered solutions.
+
+## ✨ Features
+
+* Clean, responsive design
+* Light & Dark mode support
+* Project showcase
+* Skills and technologies
+* Resume download
+* Contact form
+* GitHub & LinkedIn integration
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Flask
+* MySQL
+* MongoDB
+* Git & GitHub
+
+## 📂 Featured Projects
+
+* 🤖 AI FAQ Chatbot
+* 📋 Subscription Management System
+* 🌍 AI Language Translator
+* 💼 Personal Portfolio
+
+## 🚀 Run Locally
 
 ```bash
-npx serve .
-# or
+# Using Python
 python3 -m http.server 8080
+
+# Or using Node.js
+npx serve .
 ```
 
-## Deploy (GitHub Pages)
+Then open:
 
-Push to a Pages-enabled repo, then update canonical / OG / sitemap URLs if needed.
+```
+http://localhost:8080
+```
 
-## Contents
+## 🌐 Live Portfolio
 
-| Item | Status |
-|------|--------|
-| Resume | `assets/resume/resume.pdf` |
-| LinkedIn | From GitHub profile |
-| Contact | FormSubmit → `shayansk425@gmail.com` |
-| Live demos | Chatbot & Translator on GitHub Pages |
+Add your deployed portfolio URL here after deployment.
 
-## Stack
+## 📬 Contact
 
-Static HTML / CSS / JS. No build step required.
-# my-portfolio
+* **LinkedIn:** https://www.linkedin.com/in/your-linkedin
+* **GitHub:** https://github.com/ShynCode
+* **Email:** [shayansk425@gmail.com](mailto:shayansk425@gmail.com)
+
+---
+
+⭐ If you like this project, consider giving it a star.
