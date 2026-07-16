@@ -1,0 +1,125 @@
+You are an award-winning Framer designer and senior UI/UX engineer.
+
+Design a portfolio inspired by the visual quality and experience of:
+
+https://sawad.framer.website/
+
+Do NOT copy the website.
+
+Instead, create an original portfolio that captures the same premium feeling.
+
+Theme Requirements:
+
+• Ultra-premium dark theme
+• Minimalistic luxury design
+• Apple + OpenAI + Linear + Framer inspired
+• Modern typography
+• Large bold headings
+• Clean white text
+• Soft gray secondary text
+• Electric blue and purple gradient accents
+• Glassmorphism cards
+• Floating blurred gradient backgrounds
+• Soft glow effects
+• Premium spacing
+• Rounded corners (18–24px)
+• Elegant shadows
+• High-end UI components
+• Beautiful hover animations
+• Smooth page transitions
+• Scroll reveal animations
+• Magnetic buttons
+• Custom animated cursor
+• Scroll progress indicator
+• Sticky transparent navigation with blur
+• Aurora animated background
+• Particle background
+• Floating geometric shapes
+• Gradient borders
+• Animated section dividers
+• Interactive project cards
+• Animated skill cards
+• Smooth scrolling
+• Premium loading screen
+• 60 FPS animations
+• Mobile-first responsive design
+
+Typography:
+
+Headings:
+- Extra Bold
+- Huge font sizes
+- Tight letter spacing
+- Luxury appearance
+
+Body:
+- Highly readable
+- Modern spacing
+- Professional
+
+Color Palette:
+
+Background:
+#050816
+
+Surface:
+#0F172A
+
+Cards:
+rgba(255,255,255,0.05)
+
+Primary:
+#3B82F6
+
+Secondary:
+#8B5CF6
+
+Accent:
+#06B6D4
+
+Text:
+#FFFFFF
+
+Muted Text:
+#94A3B8
+
+Buttons:
+
+Primary:
+Gradient Blue → Purple
+
+Hover:
+Glow effect
+Scale animation
+Smooth transition
+
+Hero Section:
+
+• Full-screen layout
+• Large introduction
+• Professional headline
+• Animated typing effect
+• CTA buttons
+• Floating profile image with glowing border
+• Background gradients
+• Scroll indicator
+
+Projects:
+
+• Premium project cards
+• Large screenshots
+• Glass effect
+• Live Demo button
+• GitHub button
+• Hover tilt animation
+• Smooth image zoom
+
+Animations:
+
+Use GSAP or AOS animations.
+
+Every section should animate beautifully.
+
+Everything should feel like a premium Framer template.
+
+The final portfolio should look like a $10,000 designer portfolio suitable for an AI Engineer, LL
