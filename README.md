@@ -1,4 +1,4 @@
-ko# 🚀 Shayan Khan — Portfolio
+Shayan Khan — Portfolio
 
 A modern, responsive portfolio showcasing my work as a **Full-Stack Developer** with a growing focus on **AI and Large Language Models (LLMs)**.
 
