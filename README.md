@@ -15,6 +15,10 @@ This portfolio highlights my projects, technical skills, and experience in build
 * Resume download
 * Contact form
 * GitHub & LinkedIn integration
+  
+## Updates
+
+This README is being improved in the feature-readme-update branch.
 
 ## 🛠️ Tech Stack
 
